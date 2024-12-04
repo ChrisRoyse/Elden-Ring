@@ -1,4 +1,3 @@
-```markdown
 # The Number One LLC - Player Insights Automation
 
 Welcome to the repository for **The Number One LLC**, where we leverage cutting-edge machine learning models to transform player feedback into actionable insights. This project encompasses data collection, sentiment analysis, and message paraphrasing to help game developers make data-driven decisions that enhance player satisfaction and game quality.

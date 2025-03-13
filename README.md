@@ -387,7 +387,7 @@ python scripts/rewrite_messages.py
 For any inquiries or support, please contact us:
 
 - **Phone**: (785) 307-4445
-- **Email**: [thenumberonellc@gmail.com](mailto:thenumberonellc@gmail.com)
+- **Email**: [chris@frontiertechstrategies.com](mailto:chris@frontiertechstrategies.com)
 
 ## License
 
